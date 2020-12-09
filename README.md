@@ -1,7 +1,7 @@
 
 `JOptionPane.showMessageDialog(null, "Greetings!", "welcome", JOptionPane.INFORMATION_MESSAGE);` :coffee:
 
-Working as middleware architect at Red Hat.
+Working as a middleware architect at Red Hat.
 I like clean code, to solve problems, drink coffee and talk about microservices.
 
 [![raphael github stats](https://github-readme-stats.vercel.app/api?username=aelkz&show_icons=true&theme=dracula&hide_title=true&hide_border=true)](https://github.com/aelkz/github-readme-stats)
