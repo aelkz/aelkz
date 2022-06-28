@@ -4,8 +4,6 @@ Howdy! :cowboy_hat_face: :coffee:
 Working as a middleware architect at Red Hat.
 I like clean code, to solve problems, drink coffee and talk about microservices.
 
-[![raphael github stats](https://github-readme-stats.vercel.app/api?username=aelkz&show_icons=true&theme=dracula&hide_title=true&hide_border=true)](https://github.com/aelkz/github-readme-stats)
-
 ![](https://komarev.com/ghpvc/?username=aelkz)
 
 ### Latest blog posts:
