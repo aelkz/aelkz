@@ -1,5 +1,5 @@
 
-`JOptionPane.showMessageDialog(null, "Greetings!", "welcome", JOptionPane.INFORMATION_MESSAGE);` :coffee:
+Howdy! :cowboy_hat_face: :coffee:
 
 Working as a middleware architect at Red Hat.
 I like clean code, to solve problems, drink coffee and talk about microservices.
