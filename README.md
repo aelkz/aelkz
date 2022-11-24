@@ -1,7 +1,7 @@
 
 Howdy! :cowboy_hat_face: :coffee:
 
-Working as a middleware architect at Red Hat.
+Working as a software engineer at Red Hat.
 I like clean code, to solve problems, drink coffee and talk about microservices.
 
 ![](https://komarev.com/ghpvc/?username=aelkz)
