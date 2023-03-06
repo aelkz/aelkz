@@ -4,14 +4,12 @@ Howdy! :cowboy_hat_face: :coffee:
 Working as a software engineer at Red Hat.
 I like clean code, to solve problems, drink coffee and talk about microservices.
 
-![](https://komarev.com/ghpvc/?username=aelkz)
-
 ### Latest blog posts:
 - Microservices Observability (part1) - Dzone - [https://dzone.com/articles/microservices-observability](https://dzone.com/articles/microservices-observability)
 - How to secure microservices with Red Hat Single Sign-On, Fuse, and 3scale - Red Hat Developer's Blog - [https://developers.redhat.com/blog/2019/10/30/how-to-secure-microservices-with-red-hat-single-sign-on-fuse-and-3scale/](https://developers.redhat.com/blog/2019/10/30/how-to-secure-microservices-with-red-hat-single-sign-on-fuse-and-3scale/)
 
 ### Latest videos:
-- CodigoFonteTV Keycloak - The Authorization Server (pt-br): https://www.youtube.com/watch?v=0RMYomgf4a8
+- CodigoFonteTV Keycloak - Overview and features (pt-br): https://www.youtube.com/watch?v=0RMYomgf4a8
 - Native Quarkus Images with S2I: https://role.rhu.redhat.com/rol-rhu/app/seminar/exps207-1
 - Gathering Microservices Application-level Metrics Using Prometheus: https://role.rhu.redhat.com/rol-rhu/app/seminar/exps162-1
 
